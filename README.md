@@ -1,6 +1,13 @@
-# damapaper-hub
+# DamaPaper Hub
 
-Documentation hub scaffold for damapaper-hub.
+Whitepapers and research artifacts for the Dama ecosystem.
 
 ## Structure
-- docs/: markdown specs and guides.
+- docs/index.md: high-level outline
+- .devcontainer/: Node image for docs tooling (Docusaurus/Next/mdbook)
+- .gitignore: node_modules, build artifacts
+
+## Contribution checklist
+- Keep sections concise and owned (see docs/index.md)
+- Add diagrams (PlantUML/Mermaid) where helpful
+- Record decisions in a changelog section
