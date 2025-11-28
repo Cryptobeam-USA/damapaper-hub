@@ -10,7 +10,6 @@ Whitepapers and research artifacts for the Dama ecosystem.
 - Risks
 - Appendix
 
-
 ## Next steps
 - Fill in each section with the latest decisions
 - Add links to APIs/specs/diagrams
